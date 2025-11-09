@@ -1,0 +1,58 @@
+{
+  "id": "1",
+  "image": "assets/images/sunday_morning.png",
+  "hour": "9h",
+  "createAt": "",
+  "title": "Domingo de manhã",
+  "theme": "Lição 06: Deus insiste em nos amar.",
+  "preacher": "Pb Cid",
+  "heading": "domingo de manhã",
+  "type": "sunday-morning-services",
+  "guideIsVisible": true,
+  "liturgiesList": [
+    {
+      "isAdditional":  false,
+      "sequence": "Abertura",
+      "additional": ""
+    },
+    {
+      "isAdditional": true,
+      "sequence": "Hino 351",
+      "additional": "Belas palavras de Vida"
+    },
+    {
+      "isAdditional": false,
+      "sequence": "Devocional",
+      "additional": ""
+    },
+    {"isAdditional": false,
+      "sequence": "Louvor",
+      "additional": ""
+    },
+    {
+      "isAdditional": false,
+      "sequence": "Avisos e divisão de salas",
+      "additional": ""
+    }
+  ],
+  "lyricsList": [
+    {
+      "id": "",
+      "title": "Nas Estrelas",
+      "group": "Vencedores Por Cristo",
+      "albumCover":
+      "",
+      "createAt": "",
+      "verses": []
+    },
+    {
+      "id": "",
+      "title": "Como É Bom Te Louvar",
+      "group": "Renata Leonel",
+      "albumCover":
+      "",
+      "createAt": "",
+      "verses": []
+    }
+  ]}
+

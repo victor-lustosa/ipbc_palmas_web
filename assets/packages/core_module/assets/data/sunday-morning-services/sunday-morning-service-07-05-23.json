@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "image": "assets/images/sunday_morning.jpg",
+  "hour": "9h",
+  "createAt": "",
+  "title": "Domingo de manhã",
+  "theme": "Lição 07: Aparentemente insignificantes, poderosos em Deus.",
+  "preacher": "Pr Joefeson",
+  "heading": "domingo de manhã",
+  "type": "sunday-morning-services",
+  "guideIsVisible": true,
+  "liturgiesList": [
+    {
+      "isAdditional":  false,
+      "sequence": "Abertura",
+      "additional": ""
+    },
+    {
+      "isAdditional": true,
+      "sequence": "Hino 371",
+      "additional": "A bíblia"
+    },
+    {
+      "isAdditional": false,
+      "sequence": "Devocional",
+      "additional": ""
+    },
+    {"isAdditional": false,
+      "sequence": "Louvor",
+      "additional": ""
+    },
+    {
+      "isAdditional": false,
+      "sequence": "Avisos e divisão de salas",
+      "additional": ""
+    }
+  ],
+  "lyricsList": [
+    {
+      "id": "",
+      "title": "Obrigado Jesus",
+      "group": "Alda Célia",
+      "albumCover":
+      "",
+      "createAt": "",
+      "verses": []
+    },
+    {
+      "id": "",
+      "title": "Grande é o Senhor",
+      "group": "Adhemar de Campos",
+      "albumCover":
+      "",
+      "createAt": "",
+      "verses": []
+    }
+  ]}
+

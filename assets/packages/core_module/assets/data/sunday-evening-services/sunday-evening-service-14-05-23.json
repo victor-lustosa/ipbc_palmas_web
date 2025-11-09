@@ -1,0 +1,82 @@
+{
+  "id": "1",
+  "createAt": "",
+  "image": "assets/images/sunday_evening.png",
+  "title": "Domingo à noite",
+  "theme": "Como me relaciono com os perdidos ao meu redor?",
+  "preacher": "Pr Danilo",
+  "heading": "domingo à noite",
+  "hour": "19h",
+  "type": "sunday-evening-services",
+  "guideIsVisible": true,
+  "liturgiesList": [
+  {
+  "isAdditional":  false,
+  "sequence": "Oração",
+    "additional": ""
+  },
+  {
+    "isAdditional": true,
+    "sequence": "Texto Biblico",
+    "additional": "Salmo 100:1-4"
+  },
+  {
+    "isAdditional": true,
+    "sequence": "Hino 14",
+    "additional": "Louvor"
+  },
+  {
+    "isAdditional": true,
+    "sequence": "Texto Biblico",
+    "additional": "Salmo 100:5"
+  },
+  {
+    "isAdditional": false,
+    "sequence": "Oração de confissão de pecados",
+    "additional": ""
+  },
+  {
+    "isAdditional": false,
+    "sequence": "Cânticos",
+    "additional": ""
+  },
+  {
+    "isAdditional": false,
+    "sequence": "Pregação",
+    "additional": ""
+  },
+  {
+    "isAdditional": true,
+    "sequence": "Hino 201",
+    "additional": "Manso e suave"
+  },
+  {
+    "isAdditional": false,
+    "sequence": "Bênção Apostólica",
+    "additional": ""
+  },
+  {
+    "isAdditional": false,
+    "sequence": "Avisos",
+    "additional": ""
+  }
+],
+  "lyricsList": [
+    {
+      "id": "",
+      "title": "Infinitamente mais",
+      "group": "Asaph Borba",
+      "albumCover": "",
+      "createAt": "",
+      "verses": []
+    },
+    {
+      "id": "",
+      "title": "Ofereço minha vida",
+      "group": "Igreja Bíblica da Paz",
+      "albumCover": "",
+      "createAt": "",
+      "verses": []
+    }
+  ]}
+
