@@ -48723,7 +48723,7 @@ var $async$kX=A.r(function(a,b){if(a===1)return A.t(b,r)
 for(;;)switch(s){case 0:s=3
 return A.q(new A.P_().gxM(),$async$kX)
 case 3:p=b.y
-q=p
+q="Plataforma: Web\nUserAgent: "+p
 s=1
 break
 case 1:return A.u(q,r)}})
