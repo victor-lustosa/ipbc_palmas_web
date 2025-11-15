@@ -48708,12 +48708,13 @@ case 6:case 1:return A.u(q,r)
 case 2:return A.t(o.at(-1),r)}})
 return A.v($async$Cq,r)}}
 A.aaE.prototype={
-Co(){var s=0,r=A.w(t.y),q,p
+Co(){var s=0,r=A.w(t.y),q,p,o
 var $async$Co=A.r(function(a,b){if(a===1)return A.t(b,r)
 for(;;)switch(s){case 0:s=3
 return A.q(new A.P_().gxM(),$async$Co)
 case 3:p=b.y
-q=B.c.q(p.toLowerCase(),"android")||B.c.q(p,"iphone")||B.c.q(p,"ipad")||B.c.q(p,"ipod")
+o=p.toLowerCase()
+q=B.c.q(o.toLowerCase(),"android")||B.c.q(o,"iphone")||B.c.q(o,"ipad")||B.c.q(o,"ipod")
 s=1
 break
 case 1:return A.u(q,r)}})
@@ -91965,10 +91966,10 @@ l=m.fx.a
 k=A.bB(m.fr.a?B.es:B.cR,g,g,14,g,g)
 j=h.d
 i=j.fr.a
-m=h.e?10:12
+m=h.e?8:12
 return A.aJB(B.dL,p.as,"por favor, insira uma mensagem.",new A.cz(B.k,g,s,r,g,g,B.a9),g,f.CW,k,a,h.SR(new A.a7(10,m,10,2),A.aKB(new A.axq(h),j.fy,t.S),"Sua mensagem...",i),n,!l,o,5,new A.axr(h),"Mensagem",B.ry,q)},
 SR(a,b,c,d){var s,r,q=null
-if(a==null)s=new A.a7(10,this.e?10:12,10,0)
+if(a==null)s=new A.a7(10,this.e?8:12,10,0)
 else s=a
 r=A.bB(d?B.es:B.cR,q,q,10,q,q)
 return A.aOS(q,B.pm,q,s,b,r,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,A.bB(d?B.es:B.cR,q,q,14,q,q),c,q,q,q,q,q,!0,q,q,q,!0,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q)},
